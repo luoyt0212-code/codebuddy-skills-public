@@ -16,6 +16,16 @@ Path:
 skills/bp-analyzer-lite/SKILL.md
 ```
 
+### dd-interview-questions-lite
+
+A lightweight due-diligence interview preparation skill for drafting role-based interview questions.
+
+Path:
+
+```text
+skills/dd-interview-questions-lite/SKILL.md
+```
+
 ## Install
 
 Clone this repository into your skills directory:
